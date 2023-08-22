@@ -21,6 +21,6 @@ for (let element of myArray) {
 
 // String
 let myString = "My country name is Bangladesh";
-for (let words of myString) {
-  console.log(words);
+for (let element of myString) {
+  console.log(element);
 }
