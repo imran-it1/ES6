@@ -38,3 +38,5 @@ let output4 = numbers.slice(-5, 2);
 let output5 = numbers.slice(-5, 8);
 
 console.log(output1, output2, output3, output4, output5);
+// Does't change the main array
+console.log(numbers);
